@@ -48,7 +48,7 @@ B.E., Computer Engineering - Pune University, India _(May 2021)_
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/pickup_gym_website)
 
-<div style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
+<div style="text-align: justify">"Pickup Gym is a community-driven web application designed to connect fitness enthusiasts by allowing users to find gym buddies, book sessions, and manage schedules seamlessly. Built using Flask, SQLite, and Bootstrap, the platform offers a responsive and user-friendly interface for enhanced engagement. The project demonstrates a focus on user-centric design, real-time scheduling, and fostering a sense of community among gym-goers."</div>
 <br>
 <center><img src="images/detect-spam-nlp.png"/></center>
 <br>

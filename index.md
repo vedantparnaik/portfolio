@@ -15,7 +15,9 @@ B.E., Computer Engineering - Pune University, India  _(May 2021)_
 
 **Software Engineer Intern @ India FIRSTRobotics, India <br> (_August 2019 - April 2020_)**
 - **Military UTV to detect landmines:** Worked on designing a UTV on NVIDIA Jetson with mine detection sensor, IMU, GPS, and LiDAR for navigation and mark location with 0.5-meter precision.
-- Implemented [Image segmentation and depth estimation](https://github.com/vedantparnaik/Image-Segmentation-Depth-Estimation-for-UTV) on the UTV using the KITTI dataset, achieving 2-meter accuracy and establishing spatial relationships for real-time navigation and obstacle avoidance.
+- Implemented <a href="https://github.com/vedantparnaik/Image-Segmentation-Depth-Estimation-for-UTV" target="_blank">
+  Image Segmentation and Depth Estimation
+</a> on the UTV using the KITTI dataset, achieving 2-meter accuracy and establishing spatial relationships for real-time navigation and obstacle avoidance.
 - **Two-wheel Self-balancing Robot:** Developed software systems for a prototype of EvoBOT for grasping, carrying tasks, and path traversal on slopes, rough terrains, and slippery surfaces.
 
 ---
@@ -24,7 +26,7 @@ B.E., Computer Engineering - Pune University, India  _(May 2021)_
 
 ### ASL (American Sign Language) Fingerspelling Recognition - GOOGLE Competition
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/ASL-American-Sign-Language-Fingerspelling-Recognition)
+
 
 <a href="https://github.com/vedantparnaik/ASL-American-Sign-Language-Fingerspelling-Recognition" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
@@ -39,8 +41,9 @@ B.E., Computer Engineering - Pune University, India  _(May 2021)_
 
 ### Image Segmentation and Depth Estimation Algorithm
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/Image-Segmentation-Depth-Estimation-for-UTV)
-
+<a href="https://github.com/vedantparnaik/Image-Segmentation-Depth-Estimation-for-UTV" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
+</a>
 
 <div style="text-align: justify">Developed deep learning models for medical image segmentation using U-Net and depth estimation with CNNs. Focused on pixel-wise accuracy, data augmentation, and transfer learning to enhance model robustness and precision.</div>
 <br>
@@ -51,7 +54,9 @@ B.E., Computer Engineering - Pune University, India  _(May 2021)_
 
 ### Pickup Games Web App
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/pickup_gym_website)
+<a href="https://github.com/vedantparnaik/pickup_gym_website" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
+</a>
 
 <div style="text-align: justify">Pickup Gym is a community-driven web application designed to connect fitness enthusiasts by allowing users to find gym buddies, book sessions, and manage schedules seamlessly. Built using Flask, SQLite, and Bootstrap, the platform offers a responsive and user-friendly interface for enhanced engagement. The project demonstrates a focus on user-centric design, real-time scheduling, and fostering a sense of community among gym-goers.</div>
 <br>
@@ -74,7 +79,9 @@ B.E., Computer Engineering - Pune University, India  _(May 2021)_
 
 ### Iris Species Prediction FASTAPI
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/IRIS-classification-with-FastAPI)
+<a href="https://github.com/vedantparnaik/IRIS-classification-with-FastAPI" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
+</a>
 
 <div style="text-align: justify">A FastAPI-based application for predicting Iris flower species using a Random Forest Classifier trained on the Iris dataset. The API features prediction and health check endpoints, designed for scalability and deployment.</div>
 <br>
@@ -85,7 +92,9 @@ B.E., Computer Engineering - Pune University, India  _(May 2021)_
 
 ### Equity Research Chatbot Web App
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/Chat-with-PDF--AI-Powered-Chatbot)
+<a href="https://github.com/vedantparnaik/Chat-with-PDF--AI-Powered-Chatbot" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
+</a>
 
 <div style="text-align: justify">Developed an intelligent chatbot for equity research using natural language processing and machine learning. Integrated APIs to fetch real-time stock market data, allowing users to query stock metrics. Utilized a transformer-based language model to generate context-aware responses, providing users with accurate and relevant financial insights.</div>
 

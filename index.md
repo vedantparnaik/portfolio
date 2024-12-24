@@ -50,7 +50,7 @@ B.E., Computer Engineering - Pune University, India | _(May 2021)_
 
 <div style="text-align: justify">Pickup Gym is a community-driven web application designed to connect fitness enthusiasts by allowing users to find gym buddies, book sessions, and manage schedules seamlessly. Built using Flask, SQLite, and Bootstrap, the platform offers a responsive and user-friendly interface for enhanced engagement. The project demonstrates a focus on user-centric design, real-time scheduling, and fostering a sense of community among gym-goers.</div>
 <br>
-<center><img src="images/detect-spam-nlp.png"/></center>
+<center><img src="images/Landing Page.png"/></center>
 <br>
 
 ---

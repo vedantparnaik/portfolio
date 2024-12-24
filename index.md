@@ -15,19 +15,18 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <center><img src="images/nlp.png"/></center>
 
 ---
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+### ASL (American Sign Language) Fingerspelling Recognition - GOOGLE Competition
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/ASL-American-Sign-Language-Fingerspelling-Recognition)
 
 <div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
 
 <center><img src="images/BERT-classification.png"/></center>
 
 ---
-### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
+### Equity Research Chatbot 
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/Chat-with-PDF--AI-Powered-Chatbot)
 
 <div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
 <br>
@@ -105,4 +104,4 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 - [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
 
 ---
-<center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2024 Vedant Parnaik. Powered by Jekyll and the Minimal Theme.</center>

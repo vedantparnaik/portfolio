@@ -26,6 +26,11 @@ B.E., Computer Engineering - Pune University, India  _(May 2021)_
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/ASL-American-Sign-Language-Fingerspelling-Recognition)
 
+<a href="https://github.com/vedantparnaik/ASL-American-Sign-Language-Fingerspelling-Recognition" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
+</a>
+
+
 <div style="text-align: justify">Built a convolutional neural network (CNN) and transformer-based model to recognize American Sign Language (ASL) fingerspelling. Combined Mediapipe for hand landmark extraction with TensorFlow for classification, achieving 85% validation accuracy. Deployed temporal dependency capture for dynamic sign recognition, ranking in the top 10% in a Kaggle competition.</div>
 
 <center><img src="images/asl.jpg"/></center>

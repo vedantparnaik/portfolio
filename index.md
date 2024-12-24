@@ -8,12 +8,12 @@ B.E., Computer Engineering - Pune University, India _(May 2021)_
 ---
 
 # Work Experience
-**Software Engineer Assistant @ University at Buffalo <br> (_August 2024 - Present_)**
+**Software Engineer Assistant @ University at Buffalo, SUNY <br> (_August 2024 - Present_)**
 - Designed a neural network combining convolutional layers for feature extraction, and LSTMs for temporal analysis, achieving 72% accuracy in predicting the stage of Parkinson.
 - Created a structured dataset from 15 diverse tests, integrating data from the National Institute of Health, USC.
 - Developed personalized treatment plans, leveraging insights from model predictions and integrating SHAP (SHapley Additive exPlanations) for transparency in decision-making.
 
-**Software Engineer Intern @ India FIRSTRobotics <br> (_August 2019 - April 2020_)**
+**Software Engineer Intern @ India FIRSTRobotics, India <br> (_August 2019 - April 2020_)**
 - **Military UTV to detect landmines:** Worked on designing a UTV on NVIDIA Jetson with mine detection sensor, IMU, GPS, and LiDAR for navigation and mark location with 0.5-meter precision.
 - Implemented [Image segmentation and depth estimation](https://github.com/vedantparnaik/Image-Segmentation-Depth-Estimation-for-UTV) on the UTV using the KITTI dataset, achieving 2-meter accuracy and establishing spatial relationships for real-time navigation and obstacle avoidance.
 - **Two-wheel Self-balancing Robot:** Developed software systems for a prototype of EvoBOT for grasping, carrying tasks, and path traversal on slopes, rough terrains, and slippery surfaces.

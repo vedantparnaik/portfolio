@@ -79,7 +79,7 @@ B.E., Computer Engineering - Pune University, India _(May 2021)_
 
 ## Achievements
 
-### <div style="text-align: justify"> ABU ROBOCON 1  <br>
+<div style="text-align: justify"> _**ABU ROBOCON 1**_  <br>
 
 A Member of the College Team for an International Robotics Competition.
 Secured **Rank-1 and Rank-11 in India**, at the intermediate and final stages.
@@ -90,6 +90,25 @@ like navigation, obstacle avoidance, picking, and dropping using a wireless cont
 </div>
 <br>
 
+## Achievements
+
+### _ABU ROBOCON 1_
+
+A member of the college team for an international robotics competition.  
+Secured **Rank-1 and Rank-11 in India**, at the intermediate and final stages.
+
+Built a manually controlled robot and an autonomous horse-robot with GAIT movement.  
+Worked on designing mechanisms and programming the manual robot for tasks like:
+- Navigation
+- Obstacle avoidance
+- Picking and dropping tasks  
+
+Technologies used:
+- Wireless controller (XBOX)
+- LIDAR
+- Lasers
+- IRs
+- IMUs
 
 ---
 <center>© 2024 Vedant Parnaik. Powered by Jekyll and the Minimal Theme.</center>

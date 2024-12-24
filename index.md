@@ -18,7 +18,6 @@ B.E., Computer Engineering - Pune University, India  _(May 2021)_
 - Implemented [Image segmentation and depth estimation](https://github.com/vedantparnaik/Image-Segmentation-Depth-Estimation-for-UTV) on the UTV using the KITTI dataset, achieving 2-meter accuracy and establishing spatial relationships for real-time navigation and obstacle avoidance.
 - **Two-wheel Self-balancing Robot:** Developed software systems for a prototype of EvoBOT for grasping, carrying tasks, and path traversal on slopes, rough terrains, and slippery surfaces.
 
-
 ---
 
 # Projects 
@@ -30,7 +29,7 @@ B.E., Computer Engineering - Pune University, India  _(May 2021)_
 <div style="text-align: justify">Built a convolutional neural network (CNN) and transformer-based model to recognize American Sign Language (ASL) fingerspelling. Combined Mediapipe for hand landmark extraction with TensorFlow for classification, achieving 85% validation accuracy. Deployed temporal dependency capture for dynamic sign recognition, ranking in the top 10% in a Kaggle competition.</div>
 
 <center><img src="images/asl.jpg"/></center>
-
+<br>
 ---
 
 ### Image Segmentation and Depth Estimation Algorithm
@@ -100,5 +99,6 @@ Built a manually controlled robot and an autonomous horse-robot with GAIT moveme
 Worked on designing mechanisms and programming the manual robot for tasks
 like navigation, obstacle avoidance, picking, and dropping using a wireless controller (XBOX), LIDAR, Lasers, IRs, IMUs, etc.
 
+<br>
 ---
 <center>© 2024 Vedant Parnaik. Powered by Jekyll and the Minimal Theme.</center>

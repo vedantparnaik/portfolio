@@ -24,9 +24,11 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <center><img src="images/BERT-classification.png"/></center>
 
 ---
-### Equity Research Chatbot Web App
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/Chat-with-PDF--AI-Powered-Chatbot)
+### Image Segmentation and Depth Estimation Algorithm
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/Image-Segmentation-Depth-Estimation-for-UTV)
+
 
 <div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
 <br>
@@ -45,24 +47,13 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 ---
 
-### Image Segmentation and Depth Estimation
+### Equity Research Chatbot Web App
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/Image-Segmentation-Depth-Estimation-for-UTV)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/Chat-with-PDF--AI-Powered-Chatbot)
 
 <div style="text-align: justify">After my team preprocessed a dataset of 10K credit applications and built machine learning models to predict credit default risk, I built an interactive user interface with Streamlit and hosted the web app on Heroku server.</div>
 <br>
 <center><img src="images/credit-risk-webapp.png"/></center>
-<br>
-
----
-### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
-
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
-
-<div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
-<br>
-<center><img src="images/ames-house-price.jpg"/></center>
 <br>
 
 ---
@@ -77,16 +68,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
-### Business Analytics Conference 2018: How is NYC's Government Using Money?
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
-
-<div style="text-align: justify">In three-month research and a two-day hackathon, I led a team of four students to discover insights from 6 million records of NYC and Boston government spending data sets and won runner-up prize for the best research poster out of 18 participating colleges.</div>
-<br>
-<center><img src="images/bac2018.JPG"/></center>
-<br>
-
----
 ## Filmed by me
 
 [![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)

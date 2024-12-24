@@ -40,7 +40,7 @@ B.E., Computer Engineering - Pune University, India | _(May 2021)_
 
 <div style="text-align: justify">Developed deep learning models for medical image segmentation using U-Net and depth estimation with CNNs. Focused on pixel-wise accuracy, data augmentation, and transfer learning to enhance model robustness and precision.</div>
 <br>
-<center><img src="images/fb-food-trends.png"></center>
+<center><img src="images/show_process.png"></center>
 <br>
 
 ---

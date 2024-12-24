@@ -77,6 +77,17 @@ B.E., Computer Engineering - Pune University, India _(May 2021)_
 
 ---
 
+### Iris Species Prediction FASTAPI
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/IRIS-classification-with-FastAPI)
+
+<div style="text-align: justify">A FastAPI-based application for predicting Iris flower species using a Random Forest Classifier trained on the Iris dataset. The API features prediction and health check endpoints, designed for scalability and deployment.</div>
+<br>
+<center><img src="images/breast-cancer.png"/></center>
+<br>
+
+---
+
 ## Achievements
 
 #### _ABU ROBOCON 1_
@@ -86,7 +97,7 @@ Secured **Rank-1 and Rank-11 in India**, at the intermediate and final stages.
 
 Built a manually controlled robot and an autonomous horse-robot with GAIT movement.
 Worked on designing mechanisms and programming the manual robot for tasks
-like navigation, obstacle avoidance, picking, and dropping using a wireless controller (XBOX), LIDAR, lasers, IRs, IMUs, etc.
+like navigation, obstacle avoidance, picking, and dropping using a wireless controller (XBOX), LIDAR, Lasers, IRs, IMUs, etc.
 
 ---
 <center>© 2024 Vedant Parnaik. Powered by Jekyll and the Minimal Theme.</center>

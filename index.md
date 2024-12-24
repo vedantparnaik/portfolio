@@ -48,7 +48,7 @@ B.E., Computer Engineering - Pune University, India _(May 2021)_
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/pickup_gym_website)
 
-<div style="text-align: justify">"Pickup Gym is a community-driven web application designed to connect fitness enthusiasts by allowing users to find gym buddies, book sessions, and manage schedules seamlessly. Built using Flask, SQLite, and Bootstrap, the platform offers a responsive and user-friendly interface for enhanced engagement. The project demonstrates a focus on user-centric design, real-time scheduling, and fostering a sense of community among gym-goers."</div>
+<div style="text-align: justify">Pickup Gym is a community-driven web application designed to connect fitness enthusiasts by allowing users to find gym buddies, book sessions, and manage schedules seamlessly. Built using Flask, SQLite, and Bootstrap, the platform offers a responsive and user-friendly interface for enhanced engagement. The project demonstrates a focus on user-centric design, real-time scheduling, and fostering a sense of community among gym-goers.</div>
 <br>
 <center><img src="images/detect-spam-nlp.png"/></center>
 <br>
@@ -79,7 +79,15 @@ B.E., Computer Engineering - Pune University, India _(May 2021)_
 
 ## Achievements
 
-<div style="text-align: justify"> ABU ROBOCON 1 </div>
+### <div style="text-align: justify"> ABU ROBOCON 1  <br>
+
+A Member of the College Team for an International Robotics Competition.
+Secured **Rank-1 and Rank-11 in India**, at the intermediate and final stages.
+
+Built a manually controlled robot and an autonomous horse-robot with GAIT movement.
+Worked on designing mechanisms and programming the manual robot for tasks
+like navigation, obstacle avoidance, picking, and dropping using a wireless controller (XBOX), LIDAR, lasers, IRs, IMUs, etc.
+</div>
 <br>
 
 

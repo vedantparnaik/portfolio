@@ -55,16 +55,6 @@ B.E., Computer Engineering - Pune University, India  _(May 2021)_
 
 ---
 
-### Equity Research Chatbot Web App
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/Chat-with-PDF--AI-Powered-Chatbot)
-
-<div style="text-align: justify">Developed an intelligent chatbot for equity research using natural language processing and machine learning. Integrated APIs to fetch real-time stock market data, allowing users to query stock metrics. Utilized a transformer-based language model to generate context-aware responses, providing users with accurate and relevant financial insights.</div>
-<br>
-<center><img src="images/credit-risk-webapp.png"/></center>
-<br>
-
----
 ### Predict Breast Cancer with RF, PCA and SVM using Python
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/breast-cancer.html)
@@ -84,6 +74,16 @@ B.E., Computer Engineering - Pune University, India  _(May 2021)_
 <div style="text-align: justify">A FastAPI-based application for predicting Iris flower species using a Random Forest Classifier trained on the Iris dataset. The API features prediction and health check endpoints, designed for scalability and deployment.</div>
 <br>
 <center><img src="images/iris_landing_page.png"/></center>
+<br>
+
+---
+
+### Equity Research Chatbot Web App
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/Chat-with-PDF--AI-Powered-Chatbot)
+
+<div style="text-align: justify">Developed an intelligent chatbot for equity research using natural language processing and machine learning. Integrated APIs to fetch real-time stock market data, allowing users to query stock metrics. Utilized a transformer-based language model to generate context-aware responses, providing users with accurate and relevant financial insights.</div>
+
 <br>
 
 ---

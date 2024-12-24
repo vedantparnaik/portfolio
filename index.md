@@ -24,7 +24,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <center><img src="images/BERT-classification.png"/></center>
 
 ---
-### Equity Research Chatbot 
+### Equity Research Chatbot Web App
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/Chat-with-PDF--AI-Powered-Chatbot)
 
@@ -34,10 +34,9 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
-### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
+### Pickup Games Web App
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/pickup_gym_website)
 
 <div style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
 <br>
@@ -45,13 +44,10 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
-## Data Science
 
-### Credit Risk Prediction Web App
+### Image Segmentation and Depth Estimation
 
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/credit-risk-prediction)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/Image-Segmentation-Depth-Estimation-for-UTV)
 
 <div style="text-align: justify">After my team preprocessed a dataset of 10K credit applications and built machine learning models to predict credit default risk, I built an interactive user interface with Streamlit and hosted the web app on Heroku server.</div>
 <br>

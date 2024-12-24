@@ -44,6 +44,7 @@ B.E., Computer Engineering - Pune University, India | _(May 2021)_
 <br>
 
 ---
+
 ### Pickup Games Web App
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/pickup_gym_website)
@@ -83,7 +84,7 @@ B.E., Computer Engineering - Pune University, India | _(May 2021)_
 
 <div style="text-align: justify">A FastAPI-based application for predicting Iris flower species using a Random Forest Classifier trained on the Iris dataset. The API features prediction and health check endpoints, designed for scalability and deployment.</div>
 <br>
-<center><img src="images/breast-cancer.png"/></center>
+<center><img src="images/iris_landing_page.png"/></center>
 <br>
 
 ---

@@ -2,9 +2,10 @@
 ---
 
 M.S., Applied Science and Engineering (AI/ML, Robotics)
-  - University at Buffalo, The SUNY (_May 2024_) <br>
+- University at Buffalo, The SUNY (_May 2024_) <br>
+
 B.E., Computer Science
-  - Savitribai Phule Pune University (_May 2021_)
+- Savitribai Phule Pune University (_May 2021_)
 
 ---
 

@@ -27,7 +27,7 @@ B.E., Computer Engineering - Pune University, India _(May 2021)_
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/ASL-American-Sign-Language-Fingerspelling-Recognition)
 
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+<div style="text-align: justify">Built a convolutional neural network (CNN) and transformer-based model to recognize American Sign Language (ASL) fingerspelling. Combined Mediapipe for hand landmark extraction with TensorFlow for classification, achieving 85% validation accuracy. Deployed temporal dependency capture for dynamic sign recognition, ranking in the top 10% in a Kaggle competition.</div>
 
 <center><img src="images/BERT-classification.png"/></center>
 
@@ -38,7 +38,7 @@ B.E., Computer Engineering - Pune University, India _(May 2021)_
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/Image-Segmentation-Depth-Estimation-for-UTV)
 
 
-<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
+<div style="text-align: justify">Developed deep learning models for medical image segmentation using U-Net and depth estimation with CNNs. Focused on pixel-wise accuracy, data augmentation, and transfer learning to enhance model robustness and precision.</div>
 <br>
 <center><img src="images/fb-food-trends.png"></center>
 <br>
@@ -59,7 +59,7 @@ B.E., Computer Engineering - Pune University, India _(May 2021)_
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vedantparnaik/Chat-with-PDF--AI-Powered-Chatbot)
 
-<div style="text-align: justify">After my team preprocessed a dataset of 10K credit applications and built machine learning models to predict credit default risk, I built an interactive user interface with Streamlit and hosted the web app on Heroku server.</div>
+<div style="text-align: justify">Developed an intelligent chatbot for equity research using natural language processing and machine learning. Integrated APIs to fetch real-time stock market data, allowing users to query stock metrics. Utilized a transformer-based language model to generate context-aware responses, providing users with accurate and relevant financial insights.</div>
 <br>
 <center><img src="images/credit-risk-webapp.png"/></center>
 <br>

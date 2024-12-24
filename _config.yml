@@ -1,20 +1,18 @@
-title: <p align="center"> Chris Tran </p>
+title: <p align="center"> Vedant Parnaik </p>
 
-logo: "/images/picture.png?raw=true"
+logo: "/images/IMG_4993_cropped.jpg?raw=true"
 
 description:
   <p align="center">
+  SWE | Data Scientist <br>
   <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/chriskhanhtran/">LinkedIn</a> |
-  <a href="https://github.com/chriskhanhtran">GitHub</a>
+  <a href="https://www.linkedin.com/in/vedantparnaik/">LinkedIn</a> |
+  <a href="https://github.com/vedantparnaik">GitHub</a>
   </p>
   
   <p align="justify">
-  I am pursing MS degree in Business Analytics at Simon Business School, University of Rochester.
-  <br><br>
-  I am currently a Machine Learning Research Intern at Skim AI Technologies with a focus on NLP and Deep Learning research.
-  <br><br>
+I am a recent grad with a background in Software engineering, skilled in building scalable applications and pipelines using AWS (EC2, BedRock, SageMaker), Docker, and CI/CD. Experienced in developing solutions for complex challenges, including disease prediction, fraud detection, and ASL recognition.
   </p>
   
 theme: jekyll-theme-minimal
-google_analytics: UA-145578661-1 # Google Analytics tracking ID
+# google_analytics: UA-145578661-1 # Google Analytics tracking ID

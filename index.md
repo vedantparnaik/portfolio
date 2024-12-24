@@ -54,7 +54,7 @@ B.E., Computer Engineering - Pune University, India  _(May 2021)_
 <br>
 
 ---
-
+<!--
 ### Predict Breast Cancer with RF, PCA and SVM using Python
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/breast-cancer.html)
@@ -65,7 +65,7 @@ B.E., Computer Engineering - Pune University, India  _(May 2021)_
 <center><img src="images/breast-cancer.png"/></center>
 <br>
 
----
+--- -->
 
 ### Iris Species Prediction FASTAPI
 
@@ -99,6 +99,8 @@ Built a manually controlled robot and an autonomous horse-robot with GAIT moveme
 Worked on designing mechanisms and programming the manual robot for tasks
 like navigation, obstacle avoidance, picking, and dropping using a wireless controller (XBOX), LIDAR, Lasers, IRs, IMUs, etc.
 
+<br>
+<center><img src="images/IMG_8568.jpg"/></center>
 <br>
 ---
 <center>© 2024 Vedant Parnaik. Powered by Jekyll and the Minimal Theme.</center>

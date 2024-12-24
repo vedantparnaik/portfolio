@@ -1,8 +1,7 @@
 # Portfolio
 ---
 
-M.S., Applied Science (AI/ML, Robotics)
-- University at Buffalo (_May 2024_) <br>
+M.S., Applied Science (AI/ML, Robotics) - University at Buffalo (_May 2024_) <br>
 
 B.E., Computer Science - Pune University (_May 2021_)
 

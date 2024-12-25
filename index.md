@@ -47,6 +47,7 @@ I’m passionate about how AI can transform healthcare and make a real differenc
 
 <center><img src="images/asl.jpg"/></center>
 <br>
+
 ---
 
 ### Image Segmentation and Depth Estimation Algorithm

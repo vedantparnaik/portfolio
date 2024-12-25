@@ -7,6 +7,9 @@ B.E., Computer Engineering <br>- Savitribai Phule Pune University, India  _(May 
 
 ---
 
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, #ccc, #000, #ccc);">
+
+
 # Work Experience
 **Research Assistant @ University at Buffalo, SUNY <br> (_August 2024 - Present_)**
 - Designed a neural network with convolutional layers and LSTMs, achieving 72% accuracy in predicting Parkinson's stages using data from 15 diverse tests curated by the National Institute of Health and USC.

@@ -1,13 +1,12 @@
 # Portfolio
----
+
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, #ccc, #000, #ccc);">
 
 M.S., Applied Science and Engineering (AI/ML, Robotics) <br>- University at Buffalo, SUNY  _(May 2024)_ <br>
 
 B.E., Computer Engineering <br>- Savitribai Phule Pune University, India  _(May 2021)_
 
 ---
-
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, #ccc, #000, #ccc);">
 
 
 # Work Experience

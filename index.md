@@ -124,7 +124,6 @@ Built a manually controlled robot and an autonomous horse-robot with GAIT moveme
 Worked on designing mechanisms and programming the manual robot for tasks
 like navigation, obstacle avoidance, picking, and dropping using a wireless controller (XBOX), LIDAR, Lasers, IRs, IMUs, etc.
 
-<br>
 <center><img src="images/IMG_8568.jpg"/></center>
 <br>
 

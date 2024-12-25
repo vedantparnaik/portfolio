@@ -1,1 +1,1 @@
-Check out the minimal portfolio at https://vedantparnaik.github.io/minimal-portfolio
+Check out my portfolio at https://vedantparnaik.github.io/portfolio

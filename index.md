@@ -1,15 +1,10 @@
 # Portfolio
 
-
 <hr style="border: 0; height: 1px; background: linear-gradient(to right, #d6d6d6, #e8e8e8, #d6d6d6);">
-
-
 
 M.S., Applied Science and Engineering (AI/ML, Robotics) <br>- University at Buffalo, SUNY  _(May 2024)_ <br>
 
 B.E., Computer Engineering <br>- Savitribai Phule Pune University, India  _(May 2021)_
-
-
 
 <hr style="border: 0; height: 1px; background: linear-gradient(to right, #d6d6d6, #e8e8e8, #d6d6d6);">
 
@@ -39,7 +34,7 @@ Recently, I had the opportunity to deliver a guest lecture at Pune University, I
   <img src="https://img.shields.io/badge/Check_out_my_Lecture!-8A2BE2">
 </a>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, #e0e0e0, #f5f5f5, #e0e0e0);">
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, #d6d6d6, #e8e8e8, #d6d6d6);">
 
 
 # Projects 
@@ -56,7 +51,7 @@ Recently, I had the opportunity to deliver a guest lecture at Pune University, I
 <center><img src="images/asl.jpg"/></center>
 <br>
 
----
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, #d6d6d6, #e8e8e8, #d6d6d6);">
 
 ### Image Segmentation and Depth Estimation Algorithm
 
@@ -71,7 +66,7 @@ Established spatial relationships in 3D for segmented objects.
 <center><img src="images/show_process.png"></center>
 <br>
 
----
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, #d6d6d6, #e8e8e8, #d6d6d6);">
 
 ### Community Fitness Platform: Pickup Gym
 
@@ -84,7 +79,8 @@ Established spatial relationships in 3D for segmented objects.
 <center><img src="images/Landing Page.png"/></center>
 <br>
 
----
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, #d6d6d6, #e8e8e8, #d6d6d6);">
+
 <!--
 ### Predict Breast Cancer with RF, PCA and SVM using Python
 
@@ -96,7 +92,7 @@ Established spatial relationships in 3D for segmented objects.
 <center><img src="images/breast-cancer.png"/></center>
 <br>
 
---- -->
+-->
 
 ### Iris Species Prediction with Random Forest
 
@@ -109,7 +105,7 @@ Established spatial relationships in 3D for segmented objects.
 <center><img src="images/iris_landing_page.png"/></center>
 <br>
 
----
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, #d6d6d6, #e8e8e8, #d6d6d6);">
 
 ### AI-Powered Equity Research Assistant
 
@@ -121,7 +117,7 @@ Established spatial relationships in 3D for segmented objects.
 
 <br>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, #e0e0e0, #f5f5f5, #e0e0e0);">
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, #d6d6d6, #e8e8e8, #d6d6d6);">
 
 
 # Achievements
@@ -138,8 +134,14 @@ like navigation, obstacle avoidance, picking, and dropping using a wireless cont
 <center><img src="images/IMG_8568.jpg"/></center>
 <br>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, #e0e0e0, #f5f5f5, #e0e0e0);">
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, #ccc, #000, #ccc);">
 
 
 <center>© 2024 Vedant Parnaik. Powered by Jekyll and the Minimal Theme.</center>
+
+<center>
+  Made with <span style="color: red;">&#10084;</span> by Vedant. Powered by Jekyll and the Minimal Theme. <br>
+  © 2024 Vedant Parnaik.
+</center>
+
 

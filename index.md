@@ -106,7 +106,7 @@ Established spatial relationships in 3D for segmented objects.
 ### AI-Powered Equity Research Assistant
 
 <a href="https://github.com/vedantparnaik/Chat-with-PDF--AI-Powered-Chatbot" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-red?logo=GitHub" alt="View on GitHub">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-purple?logo=GitHub" alt="View on GitHub">
 </a>
 
 <div style="text-align: justify">Developed an intelligent chatbot for equity research using natural language processing and machine learning. Integrated APIs to fetch real-time stock market data, allowing users to query stock metrics. Utilized a transformer-based language model to generate context-aware responses, providing users with accurate and relevant financial insights.</div>

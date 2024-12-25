@@ -3,18 +3,28 @@ title: <p align="center"> Vedant Parnaik </p>
 logo: "/images/IMG_4993_cropped.jpg?raw=true"
 
 description:
+  <p align="center"> 
+    <strong>Vedant Parnaik</strong>
+  </p>
+  
   <p align="center">
-  SWE | Data Scientist <br>
-  <a href="pdf/vedant_parnaik__.pdf" target="_blank">Resume</a> |
-  <a href="https://www.linkedin.com/in/vedantparnaik/" target="_blank">LinkedIn</a> |
-  <a href="https://github.com/vedantparnaik" target="_blank">GitHub</a>
+    <img src="/images/IMG_4993_cropped.jpg?raw=true" alt="Vedant Parnaik" width="150px" height="150px">
+  </p>
+  
+  <p align="center">
+    <strong>Software Engineer | Data Scientist</strong><br>
+    <a href="pdf/vedant_parnaik__.pdf" target="_blank">Resume</a> |
+    <a href="https://www.linkedin.com/in/vedantparnaik/" target="_blank">LinkedIn</a> |
+    <a href="https://github.com/vedantparnaik" target="_blank">GitHub</a> |
+    <a href="mailto:vedant.parnaik@example.com">Email</a>
   </p>
   
   <p align="justify">
-
-  I am a recent grad with a background in Software engineering and expertise in AI/ML.
-  <br> I’m passionate about using my skills in AWS, TensorFlow, and Torch to create impactful software solutions and AI-driven applications, especially in biomedical science.
+    I am a recent graduate with a Master's degree in Engineering and Applied Science, specializing in Software Engineering and AI/ML. 
+    My technical expertise includes Python, TensorFlow, PyTorch, and AWS, with a strong focus on building impactful, AI-driven solutions in areas like biomedical science and predictive analytics.
+    I am passionate about contributing to projects that leverage technology to solve real-world challenges.
   </p>
+
   
 theme: jekyll-theme-minimal
 google_analytics: G-03W5FBFF2W # Google Analytics tracking ID

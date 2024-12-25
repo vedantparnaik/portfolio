@@ -9,9 +9,8 @@ B.E., Computer Engineering <br>- Savitribai Phule Pune University, India  _(May 
 
 # Work Experience
 **Research Assistant @ University at Buffalo, SUNY <br> (_August 2024 - Present_)**
-- Designed a neural network combining convolutional layers for feature extraction, and LSTMs for temporal analysis, achieving 72% accuracy in predicting the stage of Parkinson.
-- Created a structured dataset from 15 diverse tests, integrating data from the National Institute of Health, USC.
-- Developed personalized treatment plans, leveraging insights from model predictions and integrating SHAP (SHapley Additive exPlanations) for transparency in decision-making.
+- Designed a neural network with convolutional layers and LSTMs, achieving 72% accuracy in predicting Parkinson's stages using data from 15 diverse tests curated by the National Institute of Health and USC.
+- Developed personalized treatment plans by integrating model predictions with SHAP for transparent decision-making.
 
 **Software Engineer Intern @ India FIRSTRobotics, India <br> (_August 2019 - April 2020_)**
 - **Autonomous UTV for Landmine Detection:** Worked on designing a UTV on NVIDIA Jetson with mine detection sensor, IMU, GPS, and LiDAR for navigation and marking location with 0.5-meter precision.
@@ -96,7 +95,7 @@ Established spatial relationships in 3D for segmented objects.
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-orange?logo=GitHub" alt="View on GitHub">
 </a>
 
-<div style="text-align: justify">A FastAPI-based application for predicting Iris flower species using a Random Forest Classifier trained on the Iris dataset. The API features prediction and health check endpoints, designed for scalability and deployment.</div>
+<div style="text-align: justify">A FastAPI-based application for predicting Iris flower species using a Random Forest Classifier trained on the Iris dataset. The API features prediction and health check endpoints for scalability and deployment.</div>
 <br>
 <center><img src="images/iris_landing_page.png"/></center>
 <br>
@@ -120,7 +119,7 @@ Established spatial relationships in 3D for segmented objects.
 ### _ABU ROBOCON 1_
 
 A member of the college team for an international robotics competition.  
-Secured **Rank-1 and Rank-11 in India**, at the intermediate and final stages.
+Secured **_Rank-1 and Rank-11 in India_**, at the intermediate and final stages.
 
 Built a manually controlled robot and an autonomous horse-robot with GAIT movement.
 Worked on designing mechanisms and programming the manual robot for tasks

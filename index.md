@@ -136,10 +136,6 @@ like navigation, obstacle avoidance, picking, and dropping using a wireless cont
 
 <hr style="border: 0; height: 1px; background: linear-gradient(to right, #ccc, #000, #ccc);">
 
-
-<center>© 2024 Vedant Parnaik. Powered by Jekyll and the Minimal Theme.</center>
-<br>
-
 <center>
   Made with <span style="color: red;">&#10084;</span> by Vedant. Powered by Jekyll and the Minimal Theme. <br>
   © 2024 Vedant Parnaik.

@@ -3,7 +3,7 @@
 
 M.S., Applied Science and Engineering (AI/ML, Robotics) <br>- University at Buffalo  _(May 2024)_ <br>
 
-B.E., Computer Engineering - Pune University, India  _(May 2021)_
+B.E., Computer Engineering <br>- Savitribai Phule Pune University, India  _(May 2021)_
 
 ---
 

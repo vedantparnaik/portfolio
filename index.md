@@ -22,7 +22,7 @@ B.E., Computer Engineering - Pune University, India  _(May 2021)_
 
 ---
 
-## Guest Lecture
+# Guest Lecture
 
 #### _AI in Medicine and Biomedical Sciences_
 
@@ -112,9 +112,9 @@ I’m passionate about how AI can transform healthcare and make a real differenc
 
 ---
 
-## Achievements
+# Achievements
 
-#### _ABU ROBOCON 1_
+### _ABU ROBOCON 1_
 
 A member of the college team for an international robotics competition.  
 Secured **Rank-1 and Rank-11 in India**, at the intermediate and final stages.

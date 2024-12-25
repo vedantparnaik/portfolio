@@ -53,7 +53,7 @@ Recently, I had the opportunity to deliver a guest lecture at Pune University, I
 ### Image Segmentation and Depth Estimation Algorithm
 
 <a href="https://github.com/vedantparnaik/Image-Segmentation-Depth-Estimation-for-UTV" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-red?logo=GitHub" alt="View on GitHub">
 </a>
 
 <div style="text-align: justify">Developed deep learning models for image segmentation using U-Net and depth estimation with CNNs. Focused on pixel-wise accuracy, data augmentation, and transfer learning to enhance model robustness and precision. <br>

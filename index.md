@@ -93,7 +93,7 @@ Established spatial relationships in 3D for segmented objects.
 ### Iris Species Prediction with Random Forest
 
 <a href="https://github.com/vedantparnaik/IRIS-classification-with-FastAPI" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-yellow?logo=GitHub" alt="View on GitHub">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-orange?logo=GitHub" alt="View on GitHub">
 </a>
 
 <div style="text-align: justify">A FastAPI-based application for predicting Iris flower species using a Random Forest Classifier trained on the Iris dataset. The API features prediction and health check endpoints, designed for scalability and deployment.</div>

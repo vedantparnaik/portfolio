@@ -112,6 +112,11 @@ Check out the Lecture PDF at  <a href="AI in MBS.pdf" target="_blank">
   <img src="https://img.shields.io/badge/AI_MBS-8A2BE2">
 </a>
 
+<a href="AI in MBS.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Check_out_my_Lecture!-8A2BE2">
+</a>
+
+https://img.shields.io/badge/Check_out_my_Lecture!-8A2BE2
 ---
 
 ## Achievements

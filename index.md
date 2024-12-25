@@ -36,14 +36,14 @@ Recently, I had the opportunity to deliver a guest lecture at Pune University, I
 
 # Projects 
 
-### American Sign Language Gesture Recognition <br> Google Competition '23
+### American Sign Language Gesture Recognition <br> Google Competition '23 (Top 10%)
 
 <a href="https://github.com/vedantparnaik/ASL-American-Sign-Language-Fingerspelling-Recognition" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
 </a>
 
 
-<div style="text-align: justify">Built a convolutional neural network (CNN) and transformer-based model to recognize American Sign Language (ASL) fingerspelling. Combined Mediapipe for hand landmark extraction with TensorFlow for classification, achieving 85% validation accuracy. Deployed temporal dependency capture for dynamic sign recognition, ranking in the top 10% in a Kaggle competition.</div>
+<div style="text-align: justify">Built a convolutional neural network (CNN) and transformer-based model to recognize American Sign Language (ASL) fingerspelling. Combined Mediapipe for hand landmark extraction with TensorFlow for classification, achieving 85% validation accuracy.</div>
 
 <center><img src="images/asl.jpg"/></center>
 <br>
@@ -56,7 +56,9 @@ Recently, I had the opportunity to deliver a guest lecture at Pune University, I
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
 </a>
 
-<div style="text-align: justify">Developed deep learning models for medical image segmentation using U-Net and depth estimation with CNNs. Focused on pixel-wise accuracy, data augmentation, and transfer learning to enhance model robustness and precision.</div>
+<div style="text-align: justify">Developed deep learning models for image segmentation using U-Net and depth estimation with CNNs. Focused on pixel-wise accuracy, data augmentation, and transfer learning to enhance model robustness and precision. <br>
+Established spatial relationships in 3D for segmented objects.
+</div>
 <br>
 <center><img src="images/show_process.png"></center>
 <br>
@@ -69,7 +71,7 @@ Recently, I had the opportunity to deliver a guest lecture at Pune University, I
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
 </a>
 
-<div style="text-align: justify">Pickup Gym is a community-driven web application designed to connect fitness enthusiasts by allowing users to find gym buddies, book sessions, and manage schedules seamlessly. Built using Flask, SQLite, and Bootstrap, the platform offers a responsive and user-friendly interface for enhanced engagement. The project demonstrates a focus on user-centric design, real-time scheduling, and fostering a sense of community among gym-goers.</div>
+<div style="text-align: justify">Pickup Gym is a community-driven web application designed to connect fitness enthusiasts by allowing users to find gym buddies, book sessions, and manage schedules seamlessly. Built using Flask, SQLite, and Bootstrap, the platform offers a responsive and user-friendly interface for enhanced engagement.</div>
 <br>
 <center><img src="images/Landing Page.png"/></center>
 <br>
@@ -88,7 +90,7 @@ Recently, I had the opportunity to deliver a guest lecture at Pune University, I
 
 --- -->
 
-### Iris Species Prediction FASTAPI
+### Iris Species Prediction with Random Forest
 
 <a href="https://github.com/vedantparnaik/IRIS-classification-with-FastAPI" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">

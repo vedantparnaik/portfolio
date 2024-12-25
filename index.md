@@ -24,9 +24,9 @@ B.E., Computer Engineering - Pune University, India  _(May 2021)_
 
 # Guest Lecture
 
-#### _AI in Medicine and Biomedical Sciences_
+#### _AI in Medicine and Biomedical Sciences, Spring '24_
 
-I’m passionate about how AI can transform healthcare and make a real difference in people’s lives. This Spring '24, I had the opportunity to deliver a guest lecture at Pune University, India on "AI in Medicine and Biomedical Sciences," and I shared my journey of working on tools like disease prediction systems for Parkinson’s and enhancing medical devices with AI. For me, it’s all about using technology to empower doctors and improve patient care in meaningful ways.
+I’m passionate about how AI can transform healthcare and make a real difference in people’s lives. Recently, I had the opportunity to deliver a guest lecture at Pune University, India on "AI in Medicine and Biomedical Sciences," and I shared my journey of working on tools like disease prediction systems for Parkinson’s and enhancing medical devices with AI. For me, it’s all about using technology to empower doctors and improve patient care in meaningful ways.
 
 <a href="AI in MBS.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Check_out_my_Lecture!-8A2BE2">

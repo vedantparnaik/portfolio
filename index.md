@@ -68,7 +68,7 @@ Established spatial relationships in 3D for segmented objects.
 ### Community Fitness Platform: Pickup Gym
 
 <a href="https://github.com/vedantparnaik/pickup_gym_website" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-green?logo=GitHub" alt="View on GitHub">
 </a>
 
 <div style="text-align: justify">Pickup Gym is a community-driven web application designed to connect fitness enthusiasts by allowing users to find gym buddies, book sessions, and manage schedules seamlessly. Built using Flask, SQLite, and Bootstrap, the platform offers a responsive and user-friendly interface for enhanced engagement.</div>
@@ -106,7 +106,7 @@ Established spatial relationships in 3D for segmented objects.
 ### AI-Powered Equity Research Assistant
 
 <a href="https://github.com/vedantparnaik/Chat-with-PDF--AI-Powered-Chatbot" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-red?logo=GitHub" alt="View on GitHub">
 </a>
 
 <div style="text-align: justify">Developed an intelligent chatbot for equity research using natural language processing and machine learning. Integrated APIs to fetch real-time stock market data, allowing users to query stock metrics. Utilized a transformer-based language model to generate context-aware responses, providing users with accurate and relevant financial insights.</div>

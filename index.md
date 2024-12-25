@@ -1,6 +1,6 @@
 # Portfolio
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, #d6d6d6, #e8e8e8, #d6d6d6);">
+<hr style="border: 0; height: 1.1px; background: linear-gradient(to right, #d6d6d6, #e8e8e8, #d6d6d6);">
 
 M.S., Applied Science and Engineering (AI/ML, Robotics) <br>- University at Buffalo, SUNY  _(May 2024)_ <br>
 

@@ -1,14 +1,17 @@
 # Portfolio
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, #e0e0e0, #f5f5f5, #e0e0e0);">
+
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, #d6d6d6, #e8e8e8, #d6d6d6);">
+
 
 
 M.S., Applied Science and Engineering (AI/ML, Robotics) <br>- University at Buffalo, SUNY  _(May 2024)_ <br>
 
 B.E., Computer Engineering <br>- Savitribai Phule Pune University, India  _(May 2021)_
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, #e0e0e0, #f5f5f5, #e0e0e0);">
 
+
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, #d6d6d6, #e8e8e8, #d6d6d6);">
 
 
 # Work Experience
@@ -23,7 +26,7 @@ B.E., Computer Engineering <br>- Savitribai Phule Pune University, India  _(May 
 </a> on the UTV using the KITTI dataset, achieving 2-meter accuracy in establishing spatial relationships for real-time navigation and obstacle avoidance.
 - **Two-wheel Self-balancing Robot:** Developed software systems for a prototype of <a href="https://www.iml.fraunhofer.de/en/fields_of_activity/material-flow-systems/iot-and-embedded-systems/evobot.html" target="_blank"> EvoBOT </a> for grasping, carrying tasks, and path traversal on slopes, rough terrains, and slippery surfaces.
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, #e0e0e0, #f5f5f5, #e0e0e0);">
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, #d6d6d6, #e8e8e8, #d6d6d6);">
 
 
 # Guest Lecture
@@ -139,8 +142,4 @@ like navigation, obstacle avoidance, picking, and dropping using a wireless cont
 
 
 <center>© 2024 Vedant Parnaik. Powered by Jekyll and the Minimal Theme.</center>
-
-<footer style="background: #333; color: white; padding: 10px; text-align: center;">
-  <p>© 2024 Vedant Parnaik | <a href="mailto:vedant.parnaik@example.com" style="color: #8A2BE2;">Contact Me</a></p>
-</footer>
 

@@ -14,11 +14,11 @@ B.E., Computer Engineering - Pune University, India  _(May 2021)_
 - Developed personalized treatment plans, leveraging insights from model predictions and integrating SHAP (SHapley Additive exPlanations) for transparency in decision-making.
 
 **Software Engineer Intern @ India FIRSTRobotics, India <br> (_August 2019 - April 2020_)**
-- **Military UTV to detect landmines:** Worked on designing a UTV on NVIDIA Jetson with mine detection sensor, IMU, GPS, and LiDAR for navigation and mark location with 0.5-meter precision.
+- **Autonomous UTV for Landmine Detection:** Worked on designing a UTV on NVIDIA Jetson with mine detection sensor, IMU, GPS, and LiDAR for navigation and marking location with 0.5-meter precision.
 - Implemented <a href="https://github.com/vedantparnaik/Image-Segmentation-Depth-Estimation-for-UTV" target="_blank">
   Image Segmentation and Depth Estimation
-</a> on the UTV using the KITTI dataset, achieving 2-meter accuracy and establishing spatial relationships for real-time navigation and obstacle avoidance.
-- **Two-wheel Self-balancing Robot:** Developed software systems for a prototype of EvoBOT for grasping, carrying tasks, and path traversal on slopes, rough terrains, and slippery surfaces.
+</a> on the UTV using the KITTI dataset, achieving 2-meter accuracy in establishing spatial relationships for real-time navigation and obstacle avoidance.
+- **Two-wheel Self-balancing Robot:** Developed software systems for a prototype of <a href="https://www.iml.fraunhofer.de/en/fields_of_activity/material-flow-systems/iot-and-embedded-systems/evobot.html" target="_blank"> EvoBOT </a> for grasping, carrying tasks, and path traversal on slopes, rough terrains, and slippery surfaces.
 
 ---
 
@@ -36,7 +36,7 @@ Recently, I had the opportunity to deliver a guest lecture at Pune University, I
 
 # Projects 
 
-### ASL (American Sign Language) Fingerspelling Recognition <br> GOOGLE Competition '23
+### American Sign Language Gesture Recognition <br> Google Competition '23
 
 <a href="https://github.com/vedantparnaik/ASL-American-Sign-Language-Fingerspelling-Recognition" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
@@ -63,7 +63,7 @@ Recently, I had the opportunity to deliver a guest lecture at Pune University, I
 
 ---
 
-### Pickup Games Web App
+### Community Fitness Platform: Pickup Gym
 
 <a href="https://github.com/vedantparnaik/pickup_gym_website" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
@@ -101,7 +101,7 @@ Recently, I had the opportunity to deliver a guest lecture at Pune University, I
 
 ---
 
-### Equity Research Chatbot Web App
+### AI-Powered Equity Research Assistant
 
 <a href="https://github.com/vedantparnaik/Chat-with-PDF--AI-Powered-Chatbot" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">

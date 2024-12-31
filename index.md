@@ -113,6 +113,10 @@ Established spatial relationships in 3D for segmented objects.
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-purple?logo=GitHub" alt="View on GitHub">
 </a>
 
+<a href="[AI in MBS.pdf](https://chat-with-pdf--ai-powered-chatbot.streamlit.app/)" target="_blank">
+  <img src="https://img.shields.io/badge/Website-8A2BE2">
+</a>
+
 <div style="text-align: justify">Developed an intelligent chatbot for equity research using natural language processing and machine learning. Integrated APIs to fetch real-time stock market data, allowing users to query stock metrics. Utilized a transformer-based language model to generate context-aware responses, providing users with accurate and relevant financial insights.</div>
 <br>
 <center><img src="images/newversion.png"/></center>

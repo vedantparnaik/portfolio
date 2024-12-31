@@ -117,6 +117,14 @@ Established spatial relationships in 3D for segmented objects.
   <img src="https://img.shields.io/badge/Website-8A2BE2">
 </a>
 
+<a href="AI in MBS.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Check_out_my_Lecture!-8A2BE2">
+</a>
+
+
+[![Website](https://img.shields.io/badge/Website-green)](https://chat-with-pdf--ai-powered-chatbot.streamlit.app/)
+[![Github](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/predict-breast-cancer-with-rf-pca-svm/blob/master/breast-cancer.ipynb)
+
 <div style="text-align: justify">Developed an intelligent chatbot for equity research using natural language processing and machine learning. Integrated APIs to fetch real-time stock market data, allowing users to query stock metrics. Utilized a transformer-based language model to generate context-aware responses, providing users with accurate and relevant financial insights.</div>
 <br>
 <center><img src="images/newversion.png"/></center>

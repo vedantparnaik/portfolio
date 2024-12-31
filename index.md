@@ -114,7 +114,8 @@ Established spatial relationships in 3D for segmented objects.
 </a>
 
 <div style="text-align: justify">Developed an intelligent chatbot for equity research using natural language processing and machine learning. Integrated APIs to fetch real-time stock market data, allowing users to query stock metrics. Utilized a transformer-based language model to generate context-aware responses, providing users with accurate and relevant financial insights.</div>
-
+<br>
+<center><img src="images/newversion.png"/></center>
 <br>
 
 <hr style="border: 0; height: 1px; background: linear-gradient(to right, #d6d6d6, #e8e8e8, #d6d6d6);">

@@ -113,7 +113,7 @@ Established spatial relationships in 3D for segmented objects.
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-purple?logo=GitHub" alt="View on GitHub">
 </a>
 
-<a href="[AI in MBS.pdf](https://chat-with-pdf--ai-powered-chatbot.streamlit.app/)" target="_blank">
+<a href="https://chat-with-pdf--ai-powered-chatbot.streamlit.app/" target="_blank">
   <img src="https://img.shields.io/badge/Website-8A2BE2">
 </a>
 

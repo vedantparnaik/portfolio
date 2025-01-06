@@ -14,7 +14,7 @@ B.E., Computer Engineering <br>- Savitribai Phule Pune University, India  _(May 
 - Designed a neural network with convolutional layers and LSTMs, achieving 72% accuracy in predicting Parkinson's stages using data from 15 diverse tests curated by the National Institute of Health and USC.
 - Developed personalized treatment plans by integrating model predictions with SHAP for transparent decision-making.
 
-**Software Engineer Intern @ India FIRSTRobotics, India <br> (_August 2019 - April 2020_)**
+**Software Engineer @ India FIRSTRobotics, India <br> (_June 2021 - July 2022_)**
 - **Autonomous UTV for Landmine Detection:** Worked on designing a UTV on NVIDIA Jetson with mine detection sensor, IMU, GPS, and LiDAR for navigation and marking location with 0.5-meter precision.
 - Implemented <a href="https://github.com/vedantparnaik/Image-Segmentation-Depth-Estimation-for-UTV" target="_blank">
   Image Segmentation and Depth Estimation
